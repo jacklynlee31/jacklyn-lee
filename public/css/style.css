@@ -1,0 +1,17 @@
+/*
+grey 1: #E8E8E8;
+grey 2: #BFBFBF;
+grey 3: #93949B;
+dark purple-grey: #4C4256;
+pink: #FC496A;
+ */
+
+body {
+	background-color: #E8E8E8;
+	margin: 0;
+}
+.nav {
+	background-color: #BFBFBF;
+	padding: 10px;
+	height: 50px;
+}
