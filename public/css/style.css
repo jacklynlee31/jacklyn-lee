@@ -9,9 +9,15 @@ pink: #FC496A;
 body {
 	background-color: #E8E8E8;
 	margin: 0;
+	font-size: 11px;
 }
 .nav {
 	background-color: #BFBFBF;
 	padding: 10px;
 	height: 50px;
+}
+.content {
+	border: 1px solid black;
+	padding: 20px;
+	width: 1200px;
 }
